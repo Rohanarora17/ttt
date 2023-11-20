@@ -145,7 +145,7 @@ function ProfilePage() {
         <div className="content">
           <div className="first_content">
             <div className="heading">
-              <h1>Inidan v/s Australia</h1>
+              <h1>Indian v/s Australia</h1>
             </div>
             <div className="icon">
               <img src={require("../../assets/yello like ucon.jpg")} alt="Logo" />
