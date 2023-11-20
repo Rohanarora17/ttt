@@ -13,3 +13,4 @@ ProfilePage component contains all html in form of jsx and then the ProfilePage 
 Public folder contains the index.html and whereas src folder contains the components, assests which contain all the required images and index.js file.
 
 live link - https://ttt-khaki.vercel.app/
+github link -https://github.com/Rohanarora17/ttt
