@@ -61,7 +61,7 @@ function ProfilePage() {
         <div className="details">
           <div className="first">
             <div className="profile_picture">
-              <img src={require('../../assets/profile_picture.png')} alt="ProfilePicture" />
+              <img src={require('../../assets/profile_picture.jpg')} alt="ProfilePicture" />
             </div>
             <div className="profile_name">
               <div className="p_name">
