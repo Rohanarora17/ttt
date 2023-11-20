@@ -1,4 +1,5 @@
-Terribly Tiny Tales Profile Page \n
+Terribly Tiny Tales Profile Page 
+
 This project has been made using reactjs, html and css using parcel as build
 To run this on your localhost clone the project and type `npm install` to install the packages and `npm run dev` to run the profile page.
 This is the single component react app.
